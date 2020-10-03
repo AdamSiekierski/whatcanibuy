@@ -2,47 +2,95 @@
   "values": [
     {
       "from": 0,
-      "value": "Nothing :). Take your money and save it for later"
+      "things": ["Nothing :). Take your money and save it for later"]
     },
     {
       "from": 0.2,
-      "value": "{number}x bread roll"
+      "things": ["Bread roll"]
     },
     {
       "from": 1,
-      "value": "$1 pro sticker pack at stickermule.com/unixstickers"
+      "things": ["$1 pro sticker pack at stickermule.com/unixstickers", "Hot-dog"]
     },
     {
       "from": 1.5,
-      "value": ".com domain at godaddy.com"
+      "things": [".com domain at godaddy.com"]
     },
     {
       "from": 2,
-      "value": "A cappucino"
+      "things": ["A cappucino"]
     },
     {
       "from": 4,
-      "value": "Student Spotify Premium membership"
+      "things": ["A student Spotify Premium membership"]
+    },
+    {
+      "from": 5,
+      "things": ["Raspberry Pi Zero"]
     },
     {
       "from": 6,
-      "value": "Travis Scott Meal at McDonald's"
+      "things": ["Travis Scott Meal at McDonald's"]
     },
     {
       "from": 7,
-      "value": "Google Cardboard VR glasses"
+      "things": ["Google Cardboard VR glasses"]
     },
     {
       "from": 10,
-      "value": "A movie at the cinema"
+      "things": ["Gatsby.js T-shirt"]
     },
     {
       "from": 15,
-      "value": "A 10000mAh powerbank"
+      "things": ["A 10000mAh powerbank"]
     },
     {
       "from": 16,
-      "value": "Netflix Premium membership"
+      "things": ["Netflix Premium membership"]
+    },
+    {
+      "from": 20,
+      "things": ["Minecraft Account", "Xiaomi Redmi Airdots earphones"]
+    },
+    {
+      "from": 25,
+      "things": ["Meal at a fancy restaurant", "Ryanair flight ticket"]
+    },
+    {
+      "from": 30,
+      "things": ["Keycap set at mechanicalkeyboards.com", "Behringer UM2 Audio Interface"]
+    },
+    {
+      "from": 40,
+      "things": ["Raspberry Pi 4gen", "Cheap mechanical keyboard"]
+    },
+    {
+      "from": 50,
+      "things": ["Xiaomi Mi Smart Band 5", "Behringer C1 Condenser Microphone"]
+    },
+    {
+      "from": 80,
+      "things": ["Apple Magic Mouse", "A cheap mechanical keyboard"]
+    },
+    {
+      "from": 100,
+      "things": ["Apple Magic Keyboard"]
+    },
+    {
+      "from": 150,
+      "things": ["Apple AirPods"]
+    },
+    {
+      "from": 200,
+      "things": ["Cheap Chromebook", "Xiaomi Redmi Note 8 phone"]
+    },
+    {
+      "from": 300,
+      "things": ["Apple Watch SE"]
+    },
+    {
+      "from": 400,
+      "things": ["Apple iPhone SE 2020", "Two-way intercontinental flight from New York to London"]
     }
   ]
 }
