@@ -16,8 +16,13 @@
     border-radius: 5px;
     transition: box-shadow 0.5s ease, color 0.3s ease;
     box-shadow: 0px 0px 0px 0px orangered;
-    padding: 10px;
     font-size: 0.8em;
+    text-align: left;
+    max-width: 300px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
 
     &--focused {
       box-shadow: 0px 0px 0px 3px orangered;
@@ -32,8 +37,9 @@
     font-family: inherit;
     position: relative;
     border: none;
-    margin-left: 1ch;
+    padding: 10px;
     -moz-appearance: textfield;
+    flex: 1;
 
     &::-webkit-input-placeholder {
       color: gray;

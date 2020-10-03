@@ -3,12 +3,12 @@
   import { values } from './data/values.json';
 
   interface ResultItem {
-    value: string;
+    things: string[];
     from: number;
   }
 
   let money: number;
-  let result: ResultItem = values[0];
+  let result: ResultItem;
 
   function showResult() {
     result = values.reduce((previousValue, currentValue) =>
@@ -22,15 +22,43 @@
     height: 100vh;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
+    text-align: center;
+  }
+
+  .footer {
+    text-align: center;
+    padding: 2px;
+    font-size: 0.8em;
+
+    a {
+      color: white;
+      text-decoration: none;
+      transition: color 0.3s ease;
+
+      &:hover {
+        color: orangered;
+      }
+    }
   }
 </style>
 
 <main class="wrapper">
-  <h1>what can i buy for...</h1>
-  <Money bind:value={money} on:input={showResult} />
+  <div>
+    <h1>what can i buy for...</h1>
+    <Money bind:value={money} on:input={showResult} />
+  </div>
   {#if result}
-    <p class="result">{result.value}</p>
+    <div class="result">
+      {#each result.things as thing}
+        <p>{thing}</p>
+      {/each}
+    </div>
   {/if}
+  <div />
 </main>
+<footer class="footer">
+  made by
+  <a href="https://siekierski.ml">adam siekierski</a>
+</footer>
