@@ -1,0 +1,48 @@
+{
+  "values": [
+    {
+      "from": 0,
+      "value": "Nothing :). Take your money and save it for later"
+    },
+    {
+      "from": 0.2,
+      "value": "{number}x bread roll"
+    },
+    {
+      "from": 1,
+      "value": "$1 pro sticker pack at stickermule.com/unixstickers"
+    },
+    {
+      "from": 1.5,
+      "value": ".com domain at godaddy.com"
+    },
+    {
+      "from": 2,
+      "value": "A cappucino"
+    },
+    {
+      "from": 4,
+      "value": "Student Spotify Premium membership"
+    },
+    {
+      "from": 6,
+      "value": "Travis Scott Meal at McDonald's"
+    },
+    {
+      "from": 7,
+      "value": "Google Cardboard VR glasses"
+    },
+    {
+      "from": 10,
+      "value": "A movie at the cinema"
+    },
+    {
+      "from": 15,
+      "value": "A 10000mAh powerbank"
+    },
+    {
+      "from": 16,
+      "value": "Netflix Premium membership"
+    }
+  ]
+}

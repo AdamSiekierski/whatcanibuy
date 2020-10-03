@@ -1,14 +1,13 @@
 <script lang="ts">
   import { createEventDispatcher } from 'svelte';
-  import debounce from 'lodash.debounce';
 
   export let value: number;
 
   let focused = false;
   const dispatch = createEventDispatcher();
 
-  const onChange = () => (focused = !focused);
-  const onSubmit = debounce(() => value && dispatch('submit'), 2500);
+  const onFocusChange = () => (focused = !focused);
+  const onInput = () => dispatch('input');
 </script>
 
 <style lang="scss">
@@ -70,7 +69,7 @@
     bind:value
     class="money__input"
     placeholder="monni"
-    on:focus={onChange}
-    on:blur={onChange}
-    on:input={onSubmit} />
+    on:focus={onFocusChange}
+    on:blur={onFocusChange}
+    on:input={onInput} />
 </div>

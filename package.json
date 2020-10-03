@@ -25,6 +25,7 @@
     "typescript": "^3.9.3"
   },
   "dependencies": {
+    "@rollup/plugin-json": "^4.1.0",
     "lodash.debounce": "^4.0.8",
     "sass": "^1.26.10",
     "sirv-cli": "^1.0.0"
