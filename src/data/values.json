@@ -14,7 +14,7 @@
     },
     {
       "from": 1.5,
-      "things": [".com domain at godaddy.com"]
+      "things": [".com domain at godaddy.com", "Slightly bigger hot-dog"]
     },
     {
       "from": 2,
@@ -22,11 +22,11 @@
     },
     {
       "from": 4,
-      "things": ["A student Spotify Premium membership"]
+      "things": ["A student Spotify Premium membership", "GitHub Pro"]
     },
     {
       "from": 5,
-      "things": ["Raspberry Pi Zero"]
+      "things": ["Raspberry Pi Zero", "Among Us on Steam"]
     },
     {
       "from": 6,
@@ -37,8 +37,20 @@
       "things": ["Google Cardboard VR glasses"]
     },
     {
+      "from": 9,
+      "things": ["Netflix Basic membership"]
+    },
+    {
       "from": 10,
-      "things": ["Gatsby.js T-shirt"]
+      "things": ["100 meters of 5E UTP cable", "Gatsby.js T-shirt"]
+    },
+    {
+      "from": 12,
+      "things": ["YouTube Premium membership"]
+    },
+    {
+      "from": 16,
+      "things": ["Netflix Standard membership"]
     },
     {
       "from": 15,
@@ -58,7 +70,12 @@
     },
     {
       "from": 30,
-      "things": ["Keycap set at mechanicalkeyboards.com", "Behringer UM2 Audio Interface"]
+      "things": [
+        "Keycap set at mechanicalkeyboards.com",
+        "Behringer UM2 Audio Interface",
+        "Photoshop license for a month",
+        "Monthly license for Adobe Audition which we use to edit https://require.podcast.gq"
+      ]
     },
     {
       "from": 40,
@@ -67,6 +84,10 @@
     {
       "from": 50,
       "things": ["Xiaomi Mi Smart Band 5", "Behringer C1 Condenser Microphone"]
+    },
+    {
+      "from": 70,
+      "things": ["Amazfit Bip Smartwatch"]
     },
     {
       "from": 80,
@@ -91,6 +112,10 @@
     {
       "from": 400,
       "things": ["Apple iPhone SE 2020", "Two-way intercontinental flight from New York to London"]
+    },
+    {
+      "from": 1500,
+      "things": ["Nvidia GeForce RTX 3090"]
     }
   ]
 }
