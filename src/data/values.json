@@ -6,91 +6,91 @@
     },
     {
       "from": 0.2,
-      "things": ["Bread roll"]
+      "things": ["Bread roll","Egg seperator","Bottle opener","Garbage bag holder","Pencil case","Baby sock"]
     },
     {
       "from": 1,
-      "things": ["$1 pro sticker pack at stickermule.com/unixstickers", "Hot-dog"]
+      "things": ["$1 pro sticker pack at stickermule.com/unixstickers", "Hot-dog","Razor blades","Pack of Gum","Scissors","Mascara",]
     },
     {
       "from": 1.5,
-      "things": [".com domain at godaddy.com"]
+      "things": [".com domain at godaddy.com","1 gallon of gasoline","A slice of New York Pizza","Slime Ball","Shot glass","Rick and Morty keychain"]
     },
     {
       "from": 2,
-      "things": ["A cappucino"]
+      "things": ["A cappucino","1 Taco at Taco Bell","Half dozen eggs","Cheeseburger from McDonald's","1 Redbox movie","1 gallon of gasoline"]
     },
     {
       "from": 4,
-      "things": ["A student Spotify Premium membership"]
+      "things": ["A student Spotify Premium membership","Animal Pillow","Back scratcher","Cute animal vaccum suction cups","A gold face mask","3D cookie cutter"]
     },
     {
       "from": 5,
-      "things": ["Raspberry Pi Zero"]
+      "things": ["Raspberry Pi Zero","An artificial plant","Fun paper clips","An MP3 player.","A bowtie for your dog.","A TSA-compliant travel kit."]
     },
     {
       "from": 6,
-      "things": ["Travis Scott Meal at McDonald's"]
+      "things": ["Travis Scott Meal at McDonald's","A toilet lid cover.","An extension cord","An extension cord","A cord organizer","Big Mac meal"]
     },
     {
       "from": 7,
-      "things": ["Google Cardboard VR glasses"]
+      "things": ["Google Cardboard VR glasses","Wolverine meat shredder","A scalp massager.","Safety Window smasher","Mi Earphones","A fance Fidget spinner"]
     },
     {
       "from": 10,
-      "things": ["Gatsby.js T-shirt"]
+      "things": ["Gatsby.js T-shirt","A massage ball","A wooden phone dock"," A pack of reusable stainless-steel straws ","A card-holding hedgehog","A coconut lip scrub "]
     },
     {
       "from": 15,
-      "things": ["A 10000mAh powerbank"]
+      "things": ["A 10000mAh powerbank","Simple Houseware Kitchen Cabinet Organizer","Livho Blue Light Blocking Glasses","YOMLILIAN Bluetooth Sleep Mask","Anjou Bath Bombs","Dog Water Bottle"]
     },
     {
       "from": 16,
-      "things": ["Netflix Premium membership"]
+      "things": ["Netflix Premium membership","Hand Stylus","NightStand for Apple Watch","Herb Mill & Grinder","Self-Stirring Camera Lens Mug","Exocharge 3-Port USB Car Charger"]
     },
     {
       "from": 20,
-      "things": ["Minecraft Account", "Xiaomi Redmi Airdots earphones"]
+      "things": ["Minecraft Account", "Xiaomi Redmi Airdots earphones","Tritan Infusion Water Bottle","A mug warmer","A six-outlet wall charger","A mini waffle maker",]
     },
     {
       "from": 25,
-      "things": ["Meal at a fancy restaurant", "Ryanair flight ticket"]
+      "things": ["Meal at a fancy restaurant", "Ryanair flight ticket","A milk frother","A pair of hooks for your AirPods","waffle maker","A battery-operated depiller"]
     },
     {
       "from": 30,
-      "things": ["Keycap set at mechanicalkeyboards.com", "Behringer UM2 Audio Interface"]
+      "things": ["Keycap set at mechanicalkeyboards.com", "Behringer UM2 Audio Interface","A toilet night light with smartphone control","A29 Moscow Mule Copper Mugs ","Entil Hair Straightener Brush","HemingWeigh Acupressure Mat and Pillow Set","Zen Bamboo Luxury Bed Sheets"]
     },
     {
       "from": 40,
-      "things": ["Raspberry Pi 4gen", "Cheap mechanical keyboard"]
+      "things": ["Raspberry Pi 4gen", "Cheap mechanical keyboard","A nice sushi dinner for one","Three days worth of groceries","At least three grams of weed(Only if its legal)","A tank of gas","Concert tickets"]
     },
     {
       "from": 50,
-      "things": ["Xiaomi Mi Smart Band 5", "Behringer C1 Condenser Microphone"]
+      "things": ["Xiaomi Mi Smart Band 5", "Behringer C1 Condenser Microphone","Alume Cube Clock","Rechargeable Pain Relief Foot Warmer","Amazon Echo Dot","Sidewinder 6-Spray Rainfall Showerhead","Digital Tape Measure"]
     },
     {
       "from": 80,
-      "things": ["Apple Magic Mouse", "A cheap mechanical keyboard"]
+      "things": ["Apple Magic Mouse", "A cheap mechanical keyboard","IceMule Classic Insulated Backpack Cooler Bag","Nerf Perses MXIX-5000 Rival Motorized Blaster","Marvel Legends Series Infinity Gauntlet","Good Vibes Only neon sign",]
     },
     {
       "from": 100,
-      "things": ["Apple Magic Keyboard"]
+      "things": ["Apple Magic Keyboard","Ember Temperature Control Smart Mug","Lego Capitol Building","Bose SoundSport Wireless Headphones","Fitbit Inspire Fitness Tracker","Star Wars Chewbacca Han Solo Reversible Hoodie"]
     },
     {
       "from": 150,
-      "things": ["Apple AirPods"]
+      "things": ["Apple AirPods","Leatherman Free P4 Multitool","Instant Pot DUO NOVA 6 Pressure Cooker","Lenovo Smart Display 7","Thor's Mjolnir ","Samsung Galaxy buds"]
     },
     {
       "from": 200,
-      "things": ["Cheap Chromebook", "Xiaomi Redmi Note 8 phone"]
+      "things": ["Cheap Chromebook", "Xiaomi Redmi Note 8 phone","A pair of wireless Bose headphones ","A vintage-style blueprint poster ","A Imperial Star Destroyer Lego kit ","A gorgeous clear acrylic bar cart"]
     },
     {
       "from": 300,
-      "things": ["Apple Watch SE"]
+      "things": ["Apple Watch SE"," Go on a holiday weekend","Take a class","A cactus plant","An interview suit","PS4"]
     },
     {
       "from": 400,
-      "things": ["Apple iPhone SE 2020", "Two-way intercontinental flight from New York to London"]
+      "things": ["Apple iPhone SE 2020", "Two-way intercontinental flight from New York to London","Philips - NeoPix Ultra NPX640 1080p Wireless LCD Projector","JBL - PartyBox 300 Portable Bluetooth Speaker ","Oculus Go Standalone Virtual Reality Headset -64GB","An Ipad",]
     }
   ]
 }
