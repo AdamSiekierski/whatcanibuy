@@ -6,11 +6,15 @@
     },
     {
       "from": 0.2,
-      "things": ["Bread roll"]
+      "things": ["Bread roll", "A single disposable face mask (when buying in bulk)"]
     },
     {
       "from": 1,
-      "things": ["$1 pro sticker pack at stickermule.com/unixstickers", "Hot-dog"]
+      "things": [
+        "$1 pro sticker pack at stickermule.com/unixstickers",
+        "Hot-dog",
+        "Re-sold Microsoft Office license"
+      ]
     },
     {
       "from": 1.5,
@@ -22,7 +26,7 @@
     },
     {
       "from": 4,
-      "things": ["A student Spotify Premium membership", "GitHub Pro"]
+      "things": ["A student Spotify Premium membership", "GitHub Pro", "GitLab Bronze / Starter"]
     },
     {
       "from": 5,
@@ -49,12 +53,12 @@
       "things": ["YouTube Premium membership"]
     },
     {
-      "from": 16,
+      "from": 13,
       "things": ["Netflix Standard membership"]
     },
     {
       "from": 15,
-      "things": ["A 10000mAh powerbank"]
+      "things": ["A 10000mAh powerbank", "The minimal adoption fee for a cat"]
     },
     {
       "from": 16,
@@ -62,7 +66,7 @@
     },
     {
       "from": 20,
-      "things": ["Minecraft Account", "Xiaomi Redmi Airdots earphones"]
+      "things": ["Minecraft Account", "Xiaomi Redmi Airdots earphones", "GitLab Silver / Premium"]
     },
     {
       "from": 25,
@@ -87,7 +91,7 @@
     },
     {
       "from": 70,
-      "things": ["Amazfit Bip Smartwatch"]
+      "things": ["Amazfit Bip Smartwatch", "All Adobe Creative Cloud apps for a month"]
     },
     {
       "from": 80,
@@ -95,7 +99,7 @@
     },
     {
       "from": 100,
-      "things": ["Apple Magic Keyboard"]
+      "things": ["Apple Magic Keyboard", "GitLab Gold / Ultimate"]
     },
     {
       "from": 150,
