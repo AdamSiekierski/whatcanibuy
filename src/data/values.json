@@ -14,35 +14,43 @@
     },
     {
       "from": 1.5,
-      "things": [".com domain at godaddy.com","1 gallon of gasoline","A slice of New York Pizza","Slime Ball","Shot glass","Rick and Morty keychain"]
+      "things": [".com domain at godaddy.com", "Slightly bigger hot-dog","1 gallon of gasoline","A slice of New York Pizza"]
     },
     {
       "from": 2,
-      "things": ["A cappucino","1 Taco at Taco Bell","Half dozen eggs","Cheeseburger from McDonald's","1 Redbox movie","1 gallon of gasoline"]
+      "things": ["A cappucino","1 Taco at Taco Bell","Half dozen eggs","Cheeseburger from McDonald's"]
     },
     {
       "from": 4,
-      "things": ["A student Spotify Premium membership","Animal Pillow","Back scratcher","Cute animal vaccum suction cups","A gold face mask","3D cookie cutter"]
+      "things": ["A student Spotify Premium membership","GitHub Pro","Back scratcher","3D cookie cutter"]
     },
     {
       "from": 5,
-      "things": ["Raspberry Pi Zero","An artificial plant","Fun paper clips","An MP3 player.","A bowtie for your dog.","A TSA-compliant travel kit."]
+      "things": ["Raspberry Pi Zero", "Among Us on Steam", "A TSA-compliant travel kit","An MP3 player", "A bowtie for your dog"]
     },
     {
       "from": 6,
-      "things": ["Travis Scott Meal at McDonald's","A toilet lid cover.","An extension cord","An extension cord","A cord organizer","Big Mac meal"]
+      "things": ["Travis Scott Meal at McDonald's","A toilet lid cover.","An extension cord","A cord organizer"]
     },
     {
       "from": 7,
-      "things": ["Google Cardboard VR glasses","Wolverine meat shredder","A scalp massager.","Safety Window smasher","Mi Earphones","A fance Fidget spinner"]
+      "things": ["Google Cardboard VR glasses","A fancy Fidget spinner"]
+    },
+    {
+      "from": 9,
+      "things": ["Netflix Basic membership"]
     },
     {
       "from": 10,
-      "things": ["Gatsby.js T-shirt","A massage ball","A wooden phone dock"," A pack of reusable stainless-steel straws ","A card-holding hedgehog","A coconut lip scrub "]
+      "things": ["100 meters of 5E UTP cable", "Gatsby.js T-shirt", "A pack of reusable stainless-steel straws", "A wooden phone dock"]
+    },
+    {
+      "from": 16,
+      "things": ["Netflix Premium membership"]
     },
     {
       "from": 15,
-      "things": ["A 10000mAh powerbank","Simple Houseware Kitchen Cabinet Organizer","Livho Blue Light Blocking Glasses","YOMLILIAN Bluetooth Sleep Mask","Anjou Bath Bombs","Dog Water Bottle"]
+      "things": ["A 10000mAh powerbank"]
     },
     {
       "from": 16,
@@ -50,47 +58,61 @@
     },
     {
       "from": 20,
-      "things": ["Minecraft Account", "Xiaomi Redmi Airdots earphones","Tritan Infusion Water Bottle","A mug warmer","A six-outlet wall charger","A mini waffle maker",]
+      "things": ["Minecraft Account", "Xiaomi Redmi Airdots earphones","A mug warmer","A six-outlet wall charger"]
     },
     {
       "from": 25,
-      "things": ["Meal at a fancy restaurant", "Ryanair flight ticket","A milk frother","A pair of hooks for your AirPods","waffle maker","A battery-operated depiller"]
+      "things": ["Meal at a fancy restaurant", "Ryanair flight ticket"]
     },
     {
       "from": 30,
-      "things": ["Keycap set at mechanicalkeyboards.com", "Behringer UM2 Audio Interface","A toilet night light with smartphone control","A29 Moscow Mule Copper Mugs ","Entil Hair Straightener Brush","HemingWeigh Acupressure Mat and Pillow Set","Zen Bamboo Luxury Bed Sheets"]
+      "things": [
+        "Keycap set at mechanicalkeyboards.com",
+        "Behringer UM2 Audio Interface",
+        "Photoshop license for a month",
+        "Monthly license for Adobe Audition which we use to edit https://require.podcast.gq",
+        "A toilet night light with smartphone control"
+      ]
     },
     {
       "from": 40,
-      "things": ["Raspberry Pi 4gen", "Cheap mechanical keyboard","A nice sushi dinner for one","Three days worth of groceries","At least three grams of weed(Only if its legal)","A tank of gas","Concert tickets"]
+      "things": ["Raspberry Pi 4gen", "Cheap mechanical keyboard","A nice sushi dinner for one"]
     },
     {
       "from": 50,
-      "things": ["Xiaomi Mi Smart Band 5", "Behringer C1 Condenser Microphone","Alume Cube Clock","Rechargeable Pain Relief Foot Warmer","Amazon Echo Dot","Sidewinder 6-Spray Rainfall Showerhead","Digital Tape Measure"]
+      "things": ["Xiaomi Mi Smart Band 5", "Behringer C1 Condenser Microphone","Amazon Echo Dot","Digital Tape Measure"]
+    },
+    {
+      "from": 70,
+      "things": ["Amazfit Bip Smartwatch"]
     },
     {
       "from": 80,
-      "things": ["Apple Magic Mouse", "A cheap mechanical keyboard","IceMule Classic Insulated Backpack Cooler Bag","Nerf Perses MXIX-5000 Rival Motorized Blaster","Marvel Legends Series Infinity Gauntlet","Good Vibes Only neon sign",]
+      "things": ["Apple Magic Mouse", "A cheap mechanical keyboard","IceMule Classic Insulated Backpack Cooler Bag"]
     },
     {
       "from": 100,
-      "things": ["Apple Magic Keyboard","Ember Temperature Control Smart Mug","Lego Capitol Building","Bose SoundSport Wireless Headphones","Fitbit Inspire Fitness Tracker","Star Wars Chewbacca Han Solo Reversible Hoodie"]
+      "things": ["Apple Magic Keyboard","Ember Temperature Control Smart Mug","Lego Capitol Building"]
     },
     {
       "from": 150,
-      "things": ["Apple AirPods","Leatherman Free P4 Multitool","Instant Pot DUO NOVA 6 Pressure Cooker","Lenovo Smart Display 7","Thor's Mjolnir ","Samsung Galaxy buds"]
+      "things": ["Apple AirPods","Nice multitool"]
     },
     {
       "from": 200,
-      "things": ["Cheap Chromebook", "Xiaomi Redmi Note 8 phone","A pair of wireless Bose headphones ","A vintage-style blueprint poster ","A Imperial Star Destroyer Lego kit ","A gorgeous clear acrylic bar cart"]
+      "things": ["Cheap Chromebook", "Xiaomi Redmi Note 8 phone","A pair of wireless Bose headphones"]
     },
     {
       "from": 300,
-      "things": ["Apple Watch SE"," Go on a holiday weekend","Take a class","A cactus plant","An interview suit","PS4"]
+      "things": ["Apple Watch SE","Holiday weekend","A cactus plant","An interview suit"]
     },
     {
       "from": 400,
-      "things": ["Apple iPhone SE 2020", "Two-way intercontinental flight from New York to London","Philips - NeoPix Ultra NPX640 1080p Wireless LCD Projector","JBL - PartyBox 300 Portable Bluetooth Speaker ","Oculus Go Standalone Virtual Reality Headset -64GB","An Ipad",]
+      "things": ["Apple iPhone SE 2020", "Two-way intercontinental flight from New York to London", "An iPad"]
+    },
+    {
+      "from": 1500,
+      "things": ["Nvidia GeForce RTX 3090"]
     }
   ]
 }
