@@ -6,35 +6,73 @@
     },
     {
       "from": 0.2,
-      "things": ["Bread roll","Egg seperator","Bottle opener","Garbage bag holder","Pencil case","Baby sock"]
+      "things": [
+        "Bread roll",
+        "Egg seperator",
+        "Bottle opener",
+        "Garbage bag holder",
+        "Pencil case",
+        "Baby sock"
+      ]
     },
     {
       "from": 1,
-      "things": ["$1 pro sticker pack at stickermule.com/unixstickers", "Hot-dog","Razor blades","Pack of Gum","Scissors","Mascara",]
+      "things": [
+        "$1 pro sticker pack at stickermule.com/unixstickers",
+        "Hot-dog",
+        "Razor blades",
+        "Scissors"
+      ]
     },
     {
       "from": 1.5,
-      "things": [".com domain at godaddy.com", "Slightly bigger hot-dog","1 gallon of gasoline","A slice of New York Pizza"]
+      "things": [
+        ".com domain at godaddy.com",
+        "Slightly bigger hot-dog",
+        "1 gallon of gasoline",
+        "A slice of New York Pizza"
+      ]
     },
     {
       "from": 2,
-      "things": ["A cappucino","1 Taco at Taco Bell","Half dozen eggs","Cheeseburger from McDonald's"]
+      "things": [
+        "A cappucino",
+        "1 Taco at Taco Bell",
+        "Half dozen eggs",
+        "Cheeseburger from McDonald's"
+      ]
     },
     {
       "from": 4,
-      "things": ["A student Spotify Premium membership","GitHub Pro","Back scratcher","3D cookie cutter"]
+      "things": [
+        "A student Spotify Premium membership",
+        "GitHub Pro",
+        "Back scratcher",
+        "3D cookie cutter"
+      ]
     },
     {
       "from": 5,
-      "things": ["Raspberry Pi Zero", "Among Us on Steam", "A TSA-compliant travel kit","An MP3 player", "A bowtie for your dog"]
+      "things": [
+        "Raspberry Pi Zero",
+        "Among Us on Steam",
+        "A TSA-compliant travel kit",
+        "An MP3 player",
+        "A bowtie for your dog"
+      ]
     },
     {
       "from": 6,
-      "things": ["Travis Scott Meal at McDonald's","A toilet lid cover.","An extension cord","A cord organizer"]
+      "things": [
+        "Travis Scott Meal at McDonald's",
+        "A toilet lid cover.",
+        "An extension cord",
+        "A cord organizer"
+      ]
     },
     {
       "from": 7,
-      "things": ["Google Cardboard VR glasses","A fancy Fidget spinner"]
+      "things": ["Google Cardboard VR glasses", "A fancy Fidget spinner"]
     },
     {
       "from": 9,
@@ -42,7 +80,12 @@
     },
     {
       "from": 10,
-      "things": ["100 meters of 5E UTP cable", "Gatsby.js T-shirt", "A pack of reusable stainless-steel straws", "A wooden phone dock"]
+      "things": [
+        "100 meters of 5E UTP cable",
+        "Gatsby.js T-shirt",
+        "A pack of reusable stainless-steel straws",
+        "A wooden phone dock"
+      ]
     },
     {
       "from": 16,
@@ -54,11 +97,23 @@
     },
     {
       "from": 16,
-      "things": ["Netflix Premium membership","Hand Stylus","NightStand for Apple Watch","Herb Mill & Grinder","Self-Stirring Camera Lens Mug","Exocharge 3-Port USB Car Charger"]
+      "things": [
+        "Netflix Premium membership",
+        "Hand Stylus",
+        "NightStand for Apple Watch",
+        "Herb Mill & Grinder",
+        "Self-Stirring Camera Lens Mug",
+        "Exocharge 3-Port USB Car Charger"
+      ]
     },
     {
       "from": 20,
-      "things": ["Minecraft Account", "Xiaomi Redmi Airdots earphones","A mug warmer","A six-outlet wall charger"]
+      "things": [
+        "Minecraft Account",
+        "Xiaomi Redmi Airdots earphones",
+        "A mug warmer",
+        "A six-outlet wall charger"
+      ]
     },
     {
       "from": 25,
@@ -76,11 +131,16 @@
     },
     {
       "from": 40,
-      "things": ["Raspberry Pi 4gen", "Cheap mechanical keyboard","A nice sushi dinner for one"]
+      "things": ["Raspberry Pi 4gen", "Cheap mechanical keyboard", "A nice sushi dinner for one"]
     },
     {
       "from": 50,
-      "things": ["Xiaomi Mi Smart Band 5", "Behringer C1 Condenser Microphone","Amazon Echo Dot","Digital Tape Measure"]
+      "things": [
+        "Xiaomi Mi Smart Band 5",
+        "Behringer C1 Condenser Microphone",
+        "Amazon Echo Dot",
+        "Digital Tape Measure"
+      ]
     },
     {
       "from": 70,
@@ -88,27 +148,43 @@
     },
     {
       "from": 80,
-      "things": ["Apple Magic Mouse", "A cheap mechanical keyboard","IceMule Classic Insulated Backpack Cooler Bag"]
+      "things": [
+        "Apple Magic Mouse",
+        "A cheap mechanical keyboard",
+        "IceMule Classic Insulated Backpack Cooler Bag"
+      ]
     },
     {
       "from": 100,
-      "things": ["Apple Magic Keyboard","Ember Temperature Control Smart Mug","Lego Capitol Building"]
+      "things": [
+        "Apple Magic Keyboard",
+        "Ember Temperature Control Smart Mug",
+        "Lego Capitol Building"
+      ]
     },
     {
       "from": 150,
-      "things": ["Apple AirPods","Nice multitool"]
+      "things": ["Apple AirPods", "Nice multitool"]
     },
     {
       "from": 200,
-      "things": ["Cheap Chromebook", "Xiaomi Redmi Note 8 phone","A pair of wireless Bose headphones"]
+      "things": [
+        "Cheap Chromebook",
+        "Xiaomi Redmi Note 8 phone",
+        "A pair of wireless Bose headphones"
+      ]
     },
     {
       "from": 300,
-      "things": ["Apple Watch SE","Holiday weekend","A cactus plant","An interview suit"]
+      "things": ["Apple Watch SE", "Holiday weekend", "A cactus plant", "An interview suit"]
     },
     {
       "from": 400,
-      "things": ["Apple iPhone SE 2020", "Two-way intercontinental flight from New York to London", "An iPad"]
+      "things": [
+        "Apple iPhone SE 2020",
+        "Two-way intercontinental flight from New York to London",
+        "An iPad"
+      ]
     },
     {
       "from": 1500,

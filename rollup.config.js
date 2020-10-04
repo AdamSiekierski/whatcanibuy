@@ -39,6 +39,7 @@ export default {
     file: 'public/build/bundle.js',
   },
   plugins: [
+    json(),
     svelte({
       // enable run-time checks when not in production
       dev: !production,
@@ -49,7 +50,6 @@ export default {
       },
       preprocess: sveltePreprocess(),
     }),
-    json(),
 
     // If you have external dependencies installed from
     // npm, you'll most likely need these plugins. In
