@@ -51,7 +51,7 @@
   </div>
   {#if result}
     <div class="result">
-      {#each result.things as thing}
+      {#each result.things.sort() as thing}
         <p>{thing}</p>
       {/each}
     </div>
