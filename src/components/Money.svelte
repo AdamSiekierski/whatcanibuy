@@ -23,6 +23,7 @@
     display: flex;
     align-items: center;
     padding-left: 10px;
+    margin-bottom: 21.44px;
 
     &--focused {
       box-shadow: 0px 0px 0px 3px orangered;

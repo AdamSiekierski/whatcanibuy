@@ -190,6 +190,10 @@
     {
       "from": 1500,
       "things": ["Nvidia GeForce RTX 3090"]
+    },
+    {
+      "from": 2000,
+      "things": ["MacBook Pro 14” with M1 chip"]
     }
   ]
 }
