@@ -41,6 +41,10 @@
       ]
     },
     {
+      "from": 2.5,
+      "things": ["1 Month of SoundCloud Next Plus"]
+    },
+    {
       "from": 4,
       "things": [
         "A student Spotify Premium membership",
@@ -57,7 +61,8 @@
         "Among Us on Steam",
         "A TSA-compliant travel kit",
         "An MP3 player",
-        "A bowtie for your dog"
+        "A bowtie for your dog",
+        "1 Month of Twitter Blue"
       ]
     },
     {
@@ -74,6 +79,14 @@
       "things": ["Google Cardboard VR glasses", "A fancy Fidget spinner"]
     },
     {
+      "from": 8,
+      "things": [
+        "1 Month of Disney Plus",
+        "1 Month of SoundCloud Next Pro",
+        "1 Month subscription to WebStorm"
+      ]
+    },
+    {
       "from": 9,
       "things": ["Netflix Basic membership"]
     },
@@ -83,7 +96,9 @@
         "100 meters of 5E UTP cable",
         "Gatsby.js T-shirt",
         "A pack of reusable stainless-steel straws",
-        "A wooden phone dock"
+        "A wooden phone dock",
+        "1 Month of Discord Nitro",
+        "1 Month of GitHub Copilot"
       ]
     },
     {
@@ -112,7 +127,8 @@
         "Xiaomi Redmi Airdots earphones",
         "A mug warmer",
         "A six-outlet wall charger",
-        "GitLab Silver / Premium"
+        "GitLab Silver / Premium",
+        "1 Month of Vercel Pro for 1 user"
       ]
     },
     {
@@ -128,6 +144,10 @@
         "Monthly license for Adobe Audition which we use to edit https://require.podcast.gq",
         "A toilet night light with smartphone control"
       ]
+    },
+    {
+      "from": 35,
+      "things": ["1 Month subscription to all JetBrains Products"]
     },
     {
       "from": 40,
@@ -151,7 +171,8 @@
       "things": [
         "Apple Magic Mouse",
         "A cheap mechanical keyboard",
-        "IceMule Classic Insulated Backpack Cooler Bag"
+        "IceMule Classic Insulated Backpack Cooler Bag",
+        "Titanium White Octane (Rocket League)"
       ]
     },
     {
@@ -160,7 +181,8 @@
         "Apple Magic Keyboard",
         "Ember Temperature Control Smart Mug",
         "Lego Capitol Building",
-        "GitLab Gold / Ultimate"
+        "GitLab Gold / Ultimate",
+        "Keychron V1 Mechanical Keyboard"
       ]
     },
     {
@@ -172,28 +194,71 @@
       "things": [
         "Cheap Chromebook",
         "Xiaomi Redmi Note 8 phone",
-        "A pair of wireless Bose headphones"
+        "A pair of wireless Bose headphones",
+        "Nintendo Switch Lite",
+        "Keychron Q1 Mechanical Keyboard"
       ]
     },
     {
       "from": 300,
-      "things": ["Apple Watch SE", "Holiday weekend", "A cactus plant", "An interview suit"]
+      "things": [
+        "Apple Watch SE",
+        "Holiday weekend",
+        "A cactus plant",
+        "An interview suit",
+        "Nintendo Switch"
+      ]
+    },
+    {
+      "from": 350,
+      "things": ["Nintendo Switch OLED"]
     },
     {
       "from": 400,
       "things": [
         "Apple iPhone SE 2020",
         "Two-way intercontinental flight from New York to London",
-        "An iPad"
+        "An iPad",
+        "Steam Deck 64 GB",
+        "Apple Watch Series 8"
       ]
+    },
+    {
+      "from": 530,
+      "things": ["Steam Deck 256 GB"]
+    },
+    {
+      "from": 650,
+      "things": ["Steam Deck 512 GB", "Alpha Boost / Gold Rush (Rocket League)"]
+    },
+    {
+      "from": 800,
+      "things": ["iPhone 14"]
+    },
+    {
+      "from": 900,
+      "things": ["iPhone 14 Plus"]
     },
     {
       "from": 1500,
       "things": ["Nvidia GeForce RTX 3090"]
     },
+
+    {
+      "from": 1600,
+      "things": ["Nvidia GeForce RTX 4090"]
+    },
     {
       "from": 2000,
       "things": ["MacBook Pro 14” with M1 chip"]
+    },
+    {
+      "from": 14680981,
+      "things": ["A Polish mail-in election that didn't happen 💩"]
+    },
+    {
+      "from": 44000000000,
+      "things": ["Twitter"]
     }
   ]
 }
